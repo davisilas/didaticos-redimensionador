@@ -1,0 +1,1 @@
+# didaticos-redimensionador
